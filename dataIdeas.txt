@@ -1,0 +1,4 @@
+Determining the most common deaths in the United States
+Determining the death trends in specific States
+Determining the death trends in specific regions in the United States
+Dtermining the deaths trends for preventable diseases (must determine what counts as preventable)
